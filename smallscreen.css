@@ -1,0 +1,25 @@
+body{
+  width: 635px;
+}
+#navbar{
+  margin-left: 100px;
+}
+.img{
+  width: 500px;
+  margin-left: 0px;
+}
+.btn{
+  margin-left: 190px;
+}
+.btn1{
+  margin-left: 200px;
+}
+.body-text{
+  margin-top: 50px;
+  width: 500px;
+  margin-left: 30px;
+}
+
+.icon-footer{
+  margin-left: 70px;
+}
